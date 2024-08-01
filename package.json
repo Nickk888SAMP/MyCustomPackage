@@ -1,0 +1,10 @@
+{
+    "name": "com.nickk888.mycustompackage",
+    "version": "1.0.0",
+    "displayName": "My Custom Package",
+    "description": "This is a Custom package",
+    "unity": "2022.3",
+    "author": {
+        "name": "Nickk888"
+    }
+}
